@@ -1,0 +1,38 @@
+{
+    "\\bfx" : "\\mathbf{x}",
+    "\\bfy" : "\\mathbf{y}", 
+    "\\bfn" : "\\mathbf{n}", 
+    "\\bfu" : "\\mathbf{u}",
+    "\\bfv" : "\\mathbf{v}",
+    "\\bft" : "\\mathbf{t}",
+    "\\bff" : "\\mathbf{f}",
+    "\\bfe" : "\\mathbf{e}",
+
+    "\\bfA" : "\\mathbf{A}", 
+    "\\bfR" : "\\mathbf{R}", 
+    "\\bfD" : "\\mathbf{D}", 
+    "\\bfI" : "\\mathbf{I}", 
+    "\\bfM" : "\\mathbf{M}", 
+    "\\bfV" : "\\mathbf{V}", 
+    "\\bfW" : "\\mathbf{W}", 
+    "\\bfC" : "\\mathbf{C}", 
+    "\\bfP" : "\\mathbf{P}",  
+    "\\bfZ" : "\\mathbf{Z}", 
+    
+    "\\bbN" : "\\mathbb{N}",
+    "\\bbR" : "\\mathbb{R}",
+    "\\bbC" : "\\mathbb{C}",
+    "\\wH"  : "\\widetilde{H}",
+    
+    "\\diff" : "\\mathop{}\\!\\mathrm{d}",
+    "\\supp"  : "supp",
+    "\\grad"  : "grad",   
+    "\\Span"  : "span",   
+    "\range" : "range", 
+    "\\diag"  : "diag", 
+    "\\cond"  : "cond", 
+    "\\dist"  : "dist",
+    
+    "\\CC" : "{C\\nolinebreak[4]\\hspace{-.05em}\\raisebox{.4ex : \\tiny\\bf ++}}"
+
+}

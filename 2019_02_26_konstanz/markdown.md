@@ -46,23 +46,24 @@ class: title-slide
 
 ## Notations
 
-- $\Omega \subset \mathbb{R}^2$ or $\mathbb{R}^3$ a Lipschitz domain
+- $\Omega \subset \bbR^2$ or $\bbR^3$ a Lipschitz domain
 - $\Gamma\subseteq \partial \Omega$
 - Defining $H^s(\partial \Omega)$ using local maps $s\in (0,1)$,
 
 $$
     \begin{aligned}
     H^s(\Gamma)&:= \\{ u\lvert_{\Gamma} \, \lvert \,  u \in H^s(\partial \Omega) \\}, \\\
-    \widetilde{H}^s(\Gamma)&:= \\{ u \in H^s(\partial \Omega) \, \lvert \,  \operatorname{supp}(u) \subset \overline{\Gamma} \\}.
+    \wH^s(\Gamma)&:= \\{ u \in H^s(\partial \Omega) \, \lvert \,  \operatorname{supp}(u) \subset \overline{\Gamma} \\}.
     \end{aligned}
 $$
 
 --
 
 > **Remarks**:
-> - $\widetilde{H}^1(\Gamma)=H^1\_0(\Gamma)$ but $\widetilde{H}^{1/2}(\Gamma)=H\_{00}^{1/2}(\Gamma)$,
-> - If $\Gamma=\partial \Omega$ ($\partial \Gamma = \emptyset$), then $H^s(\Gamma)=\widetilde{H}^s(\Gamma)$ for $\lvert s \lvert \leq 1$,
-> - $\widetilde{H}^s(\Gamma)=H^s(\Gamma)$ for $0\leq s <1/2$;
+>
+> - $\wH^1(\Gamma)=H^1\_0(\Gamma)$ but $\wH^{1/2}(\Gamma)=H\_{00}^{1/2}(\Gamma)$,
+> - If $\Gamma=\partial \Omega$ ($\partial \Gamma = \emptyset$), then $H^s(\Gamma)=\wH^s(\Gamma)$ for $\lvert s \lvert \leq 1$,
+> - $\wH^s(\Gamma)=H^s(\Gamma)$ for $0\leq s <1/2$;
 
 ---
 
@@ -71,8 +72,34 @@ $$
 $$
 \left\\{
     \begin{aligned}
-    &L(u) = 0 \quad \text{ in }\Omega \subset \mathbb{R}^d \\\
+    &L(u) = 0 \quad \text{ in }\Omega \subset \bbR^d \\\
     &+\text{ condition at infinity if }\Omega\text{ is an exterior domain}
     \end{aligned}
 \right.
+$$
+where $L$ is a general linear, elliptic differential operator with constant coefficient and $d=2$ or $3$.
+
+Fundamental solution
+$$
+L(G)= \delta_0\text{ in }\bbR^d
+$$
+
+--
+
+> **Example**: Laplacian in $\bbR^d$
+> $$
+> G(\bfx):=\dfrac{1}{4\pi \lVert \bfx\rVert}
+> $$
+
+---
+
+# Surface potentials
+
+## Single and double layer potential
+
+$$
+    \begin{aligned}
+    &\operatorname{SL}(q)(\bfx):=\int\_{\Gamma} G(\bfx-\bfy)q(\bfy) \diff \sigma(\bfy),\\\
+    &\operatorname{DL}(v)(\bfx):=\int\_{\Gamma} \bfn(\bfy)\cdot (\nabla G)(\bfx-\bfy)v(\bfy) \diff \sigma(\bfy),
+    \end{aligned}
 $$
