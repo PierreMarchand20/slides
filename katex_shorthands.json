@@ -23,16 +23,24 @@
     "\\bbR" : "\\mathbb{R}",
     "\\bbC" : "\\mathbb{C}",
     "\\wH"  : "\\widetilde{H}",
+
+
+    "\\calD" : "\\mathcal{D}",
+    "\\calT" : "\\mathcal{T}",
+    "\\calR" : "\\mathcal{R}",
+    "\\calP" : "\\mathcal{P}",
+    "\\calV" : "\\mathcal{V}",
+    "\\calW" : "\\mathcal{W}",
+    "\\calJ" : "\\mathcal{J}",
+    "\\calE" : "\\mathcal{E}",
     
     "\\diff" : "\\mathop{}\\!\\mathrm{d}",
-    "\\supp"  : "supp",
-    "\\grad"  : "grad",   
-    "\\Span"  : "span",   
-    "\range" : "range", 
-    "\\diag"  : "diag", 
-    "\\cond"  : "cond", 
-    "\\dist"  : "dist",
-    
-    "\\CC" : "{C\\nolinebreak[4]\\hspace{-.05em}\\raisebox{.4ex : \\tiny\\bf ++}}"
+    "\\supp"  : "\\operatorname{supp}",
+    "\\grad"  : "\\operatorname{grad}",   
+    "\\Span"  : "\\operatorname{span}",   
+    "\\range" : "\\operatorname{range}", 
+    "\\diag"  : "\\operatorname{diag}", 
+    "\\cond"  : "\\operatorname{cond}", 
+    "\\dist"  : "\\operatorname{dist}"
 
 }
