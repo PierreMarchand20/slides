@@ -90,7 +90,7 @@ It is one of the most basic tool in programming, so it is **everywhere**
 
 - Tortoisegit, GUI on Windows
 
-![full](https://tortoisegit.org/docs/tortoisegit/images/Overlays.png)
+.center[![full](https://tortoisegit.org/docs/tortoisegit/images/Overlays.png)]
 .footnote[[sources: tortoisegit.org](https://tortoisegit.org/about/screenshots/)]
 
 ---
