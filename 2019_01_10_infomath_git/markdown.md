@@ -30,7 +30,7 @@ version control system: source code is usually **plain text** -> `.py`, `.tex`, 
 - a clean history
 - changes between versions
 - easy collaborative development
-- reset to a previous versions
+- reset to previous versions
 - online backup
 
 --
@@ -101,7 +101,7 @@ It is one of the most basic tool in programming, so it is **everywhere**
 
 - GitKraken, GUI cross-plateform
 
-![full](https://www.gitkraken.com/img/misc/gk-merge-edit.gif)
+![full](https://help.gitkraken.com/wp-content/uploads/open-file1.gif)
 .footnote[[sources: gitkraken.com](https://www.gitkraken.com/git-client)]
 
 ---
