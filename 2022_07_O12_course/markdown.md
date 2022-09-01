@@ -16,6 +16,29 @@ class: title-slide
 
 class: left
 
+# Organisation
+
+## Important information
+
+- Bring your laptop.
+- Configure your Internet connexion via eduroam ([Infos Paris-Saclay](http://reseau.dsi.universite-paris-saclay.fr/?page_id=27) — [Infos ENSTA](https://markdown.data-ensta.fr/s/connexion-eduroam)).
+- Make sure you have an account at ENSTA (contact me otherwise).
+
+## Schedule
+
+.st.noborder.st-hline.font-md.mb-xs[
+| Date                              | Location |
+| --------------------------------- | -------- |
+| Wed. 07/09 .font70[(14:00-17:15)] | ENSTA    |
+| Fri. 09/09 .font70[(14:00-17:15)] | Orsay    |
+| Wed. 14/09 .font70[(14:00-17:15)] | ENSTA    |
+| Fri. 16/09 .font70[(14:00-17:15)] | Orsay    |
+| Wed. 21/09 .font70[(14:00-17:15)] | ENSTA    |
+| Fri. 23/09 .font70[(14:00-17:15)] | Orsay    |
+]
+
+---
+
 # About this course
 
 ## Goal
@@ -27,18 +50,12 @@ class: left
 
 --
 
-## Schedule
-
-- Wednesday at 14:00
-- Friday at 14:00
-
---
-
 ## Remarks
 
 - This is course is not graded → 🎉🎉🎉
 - This course is very short → *It is only a starting point from which you can start learning*
 - First time this course is given → *Constructive comments are welcome*
+
 
 ---
 
