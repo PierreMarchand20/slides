@@ -27,14 +27,14 @@ class: left
 ## Schedule
 
 .st.noborder.st-hline.font-md.mb-xs[
-| Date                              | Salle | Location |
-| --------------------------------- | ----- | -------- |
-| Wed. 07/09 .font70[(14:00-17:00)] | 1A14  | Orsay    |
-| Fri. 09/09 .font70[(14:00-17:00)] | 1A13  | Orsay    |
-| Wed. 14/09 .font70[(14:00-17:00)] | 1A12  | Orsay    |
-| Fri. 16/09 .font70[(14:00-17:00)] | 1A13  | Orsay    |
-| Wed. 21/09 .font70[(14:00-17:00)] | 1A12  | Orsay    |
-| Fri. 23/09 .font70[(14:00-17:00)] | 1A13  | Orsay    |
+| Date                              | Room | Location |
+| --------------------------------- | ---- | -------- |
+| Wed. 07/09 .font70[(14:00-17:00)] | 1A14 | Orsay    |
+| Fri. 09/09 .font70[(14:00-17:00)] | 1A13 | Orsay    |
+| Wed. 14/09 .font70[(14:00-17:00)] | 1A12 | Orsay    |
+| Fri. 16/09 .font70[(14:00-17:00)] | 1A13 | Orsay    |
+| Wed. 21/09 .font70[(14:00-17:00)] | 1A12 | Orsay    |
+| Fri. 23/09 .font70[(14:00-17:00)] | 1A13 | Orsay    |
 ]
 
 ---
