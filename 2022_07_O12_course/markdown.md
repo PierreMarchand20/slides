@@ -235,4 +235,11 @@ SSH is widely used, examples of applications are
 
 ## What is C++?
 
-C++ was first developed as an extension to the C language, adding classes. It evolved 
+C++ was first developed as an extension to C, adding for example classes, but it evolved since then:
+
+.center[C++98->C++11->C++14->C++17->C++20->(C++23)]
+
+## Characteristics of C++
+
+- C++ is a compiled language (like C and fortran): you need a *compiler*
+- C++ is statically typed (the compiler checks the types of every value and if all the operations are valid)
