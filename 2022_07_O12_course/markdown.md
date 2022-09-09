@@ -77,7 +77,7 @@ You can find
     - pointers to other resources are also given
     - available as a website or a pdf file
 --
-- [C++ Quick Start]() (see Teaching, or these slides)
+- [C++ Quick Start](https://pmarchand.pages.math.cnrs.fr/cpp_quickstart/) (see Teaching, or these slides)
     - *quick introduction to C++*
     - pointers to other resources are also given
     - available as a website or a pdf file
@@ -233,4 +233,6 @@ SSH is widely used, examples of applications are
 
 # C++ Quick Start
 
-Work in progress
+## What is C++?
+
+C++ was first developed as an extension to the C language, adding classes. It evolved 
